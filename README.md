@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @AnnabellaCeolin
-- 👀 I’m a multipotentialite interested in tech
-- 🌱 I’m currently learning to code with SheCodes
 - 💞️ I’m looking to collaborate on purposefull projects to make this world a better place
 - 📫 How to reach me annabella.ceolin@gmail.com
 
